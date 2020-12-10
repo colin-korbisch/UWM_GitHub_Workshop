@@ -21,4 +21,3 @@ script_3 % "M" patch
 script_4 % banner shadow
 
 script_5 % yellow banner
-
